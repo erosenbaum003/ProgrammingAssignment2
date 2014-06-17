@@ -1,8 +1,8 @@
 # makeCacheMatrix: return a list of functions to:
-# 1. Set the value of the matrix
-# 2. Get the value of the matrix
-# 3. Set the value of the inverse
-# 4. Get the value of the inverse
+# 1) Set value of the matrix
+# 2) Get value of the matrix
+# 3) Set value of the inverse
+# 4) Get value of the inverse
 makeCacheMatrix <- function(x = matrix()) {
   # store cached inverse matrix
   inverse <- NULL
