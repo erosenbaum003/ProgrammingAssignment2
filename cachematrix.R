@@ -52,3 +52,4 @@ inversetest$get()
 cacheSolve(inversetest)
 cacheSolve(inversetest)
 
+## resource used: R-R- github repo for guidance. This is my first time coding. Assignment mostly over my head without some written code to dissect and understand. Thanks!
